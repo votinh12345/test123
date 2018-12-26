@@ -1,0 +1,23 @@
+{
+  "name": "test123",
+  "version": "1.0.0",
+  "description": "labda1",
+  "main": "index.js",
+  "dependencies": {
+    "test123": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "labda1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/votinh12345/test123.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/votinh12345/test123/issues"
+  },
+  "homepage": "https://github.com/votinh12345/test123#readme"
+}
