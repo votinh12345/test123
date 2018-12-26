@@ -17,5 +17,8 @@
   "homepage": "https://github.com/votinh12345/test123#readme",
   "dependencies": {},
   "devDependencies": {},
-  "description": ""
+  "description": "common",
+  "keywords": [
+    "common"
+  ]
 }
