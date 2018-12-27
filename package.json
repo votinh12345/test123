@@ -4,7 +4,6 @@
   "description": "labda1",
   "main": "index.js",
   "dependencies": {
-    "test123": "^1.0.0"
   },
   "devDependencies": {},
   "scripts": {
