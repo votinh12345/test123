@@ -1,5 +1,5 @@
 {
-  "name": "@test1/test123",
+  "name": "common",
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
@@ -9,8 +9,8 @@
     "type": "git",
     "url": "git+https://github.com/votinh12345/test123.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "hiennv",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/votinh12345/test123/issues"
   },
