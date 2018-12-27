@@ -1,4 +1,5 @@
 var writeJson = exports.writeJson = function(response, arg1, arg2) {
+  console.log('dsadsad');
   var code;
   var payload;
 
