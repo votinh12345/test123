@@ -3,7 +3,9 @@
   "version": "1.0.1",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node_modules/webpack/bin/webpack.js --mode production --watch --progress --hide-modules",
+    "build": "node_modules/webpack/bin/webpack.js --mode production --progress --hide-modules"
   },
   "repository": {
     "type": "git",
@@ -16,7 +18,11 @@
   },
   "homepage": "https://github.com/votinh12345/test123#readme",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "uglifyjs-webpack-plugin": "^2.1.0",
+    "webpack": "^4.28.2",
+    "webpack-cli": "^3.1.2"
+  },
   "description": "common",
   "keywords": [
     "common"
