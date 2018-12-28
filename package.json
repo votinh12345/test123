@@ -4,7 +4,7 @@
   "description": "lambda2",
   "main": "index.js",
   "dependencies": {
-    "test" : "git://github.com/votinh12345/test123.git#realease\/common"
+    "test" : "git://github.com/votinh12345/test123.git#v1.0.2"
   },
   "devDependencies": {},
   "scripts": {
