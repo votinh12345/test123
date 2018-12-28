@@ -20,7 +20,7 @@
     "test": "test"
   },
   "dependencies": {
-    "test1" : "git://github.com/votinh12345/test123.git#commonv2.0.1"
+    "test1" : "git://github.com/votinh12345/test123.git#common3.0.4"
   },
   "devDependencies": {},
   "keywords": [
