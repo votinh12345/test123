@@ -4,9 +4,9 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 module.exports = {
     entry: resolve(__dirname, 'index.js'),
     output: {
-        path: resolve(__dirname, 'votinh1234'),
+        path: resolve(__dirname, 'test11'),
         filename: 'test1.js',
-        library: 'scrollSpy'
+        library: 'index'
     },
     plugins: [
         new UglifyJsPlugin({
