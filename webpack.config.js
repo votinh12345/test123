@@ -4,8 +4,8 @@ const UglifyJsPlugin = require('uglifyjs-webpack-plugin')
 module.exports = {
     entry: resolve(__dirname, 'index.js'),
     output: {
-        path: resolve(__dirname, 'hiennv2.0.0'),
-        filename: 'v2.0.0_test.js',
+        path: resolve(__dirname, 'votinh444'),
+        filename: 'testv22.js',
         library: 'index'
     },
     plugins: [
