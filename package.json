@@ -1,7 +1,7 @@
 {
-  "name": "test123",
-  "version": "1.0.0",
-  "description": "",
+  "name": "labda3",
+  "version": "1.0.2",
+  "description": "lamda3",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,10 +10,20 @@
     "type": "git",
     "url": "git+https://github.com/votinh12345/test123.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "hiennv",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/votinh12345/test123/issues"
   },
-  "homepage": "https://github.com/votinh12345/test123#readme"
+  "homepage": "https://github.com/votinh12345/test123#readme",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "test1" : "git://github.com/votinh12345/test123.git#v1.0.2"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "lamda3"
+  ]
 }
